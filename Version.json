@@ -1,0 +1,25 @@
+{
+    "version": "1.0.13",
+    "projectName": "WebUI VBot Offline",
+    "description": "Sửa Lỗi Vặt",
+    "releaseDate": "27/01/2025",
+    "changes": [
+        {
+            "type": "feature",
+            "description": "chạy lệnh cập nhật thư viện sau để sử dụng GCloud V2: 'pip install --upgrade google-cloud-speech'"
+        },
+        {
+            "type": "fix",
+            "description": "Đã khắc phục sự cố bên ngoài rìa của vũ trụ"
+        },
+        {
+            "type": "improvement",
+            "description": "Nâng cao hiệu suất xử lý dữ liệu."
+        }
+    ],
+    "author": "Vũ Tuyển",
+    "code_by": "Vũ Tuyển",
+    "designed_by": "BootstrapMade",
+    "status": "stable",
+    "previousVersion": "1.0.0"
+}
